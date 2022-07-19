@@ -299,6 +299,16 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f8e61c6fdd93f0543b7a7507295183d4, type: 2}
   - {fileID: 11400000, guid: ff607f4e7a087b64793b1105a119cf8d, type: 2}
   - {fileID: 11400000, guid: b89e54e9825b0df4c85853cbac11b1c9, type: 2}
+  - {fileID: 11400000, guid: 876c7fc1eae3e4e40b5d6b2d88e1d305, type: 2}
+  - {fileID: 11400000, guid: a5578d07d44351d4192fdc4d4e2b4e47, type: 2}
+  - {fileID: 11400000, guid: 8f338459bc2760f478d60df80ae5e35d, type: 2}
+  - {fileID: 11400000, guid: 65ae5b4363e50254ab7a30f5fe64ab4b, type: 2}
+  - {fileID: 11400000, guid: 6e9eb5a7a6b92534e86e6d8a18e4a328, type: 2}
+  - {fileID: 11400000, guid: ee7f13e2093476041823c09f471b1347, type: 2}
+  - {fileID: 11400000, guid: 0d8b0583865583c42b86d3143b54e729, type: 2}
+  - {fileID: 11400000, guid: ea61e71db33c9aa4989364da354b6980, type: 2}
+  - {fileID: 11400000, guid: b8ee220979469f64389a6dc358f1d593, type: 2}
+  - {fileID: 11400000, guid: 530e7b8df93e5624595cf04ba4a04d0f, type: 2}
   answerButtons:
   - {fileID: 665822146}
   - {fileID: 2115328998}
@@ -1108,8 +1118,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 450}
-  m_SizeDelta: {x: 750, y: 150}
+  m_AnchoredPosition: {x: 0, y: 456}
+  m_SizeDelta: {x: 750, y: 96.6465}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &689727342
 MonoBehaviour:
@@ -1131,17 +1141,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "T\xFCrk\xE7eyi Ne kadar iyi biliyorsun"
+  m_text: Test Your English
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 69e8952456da9094bb46af5344f5d17e, type: 2}
-  m_sharedMaterial: {fileID: -3287223582291059828, guid: 69e8952456da9094bb46af5344f5d17e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 1
   m_colorMode: 2
   m_fontColorGradient:
@@ -1158,8 +1168,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 56.5
-  m_fontSizeBase: 56.5
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2500,7 +2510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -180}
+  m_AnchoredPosition: {x: 0, y: -149}
   m_SizeDelta: {x: 1200, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2097334595
